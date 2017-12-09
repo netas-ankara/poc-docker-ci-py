@@ -1,2 +1,2 @@
 # poc-docker-ci
-POC for continious integration environment with the ultimate container technology Docker.
+POC for the continious integration environment with the ultimate container technology Docker.
