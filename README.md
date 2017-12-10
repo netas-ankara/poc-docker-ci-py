@@ -5,4 +5,4 @@ This POC is for the continious integration environment with the ultimate contain
 Just commit a change and see the build process from this link :
 https://circleci.com/gh/netas-ankara/poc-docker-ci-py/tree/master
 
-
+All changes result with a push to our docker hub. You can track it from this link : https://hub.docker.com/r/netasankara/poc-docker-ci-py/tags/
